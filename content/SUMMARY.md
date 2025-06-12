@@ -120,6 +120,7 @@
     - [Polkadot Fellowship](./polkadot/fellowship/page.md)
     - [Nominated Proof of Stake](./polkadot/npos/page.md)
     - [OpenGov](./polkadot/opengov/page.md)
+    - [Sustainable OpenGov](./polkadot/sustainable-opengov/page.md)
 
 - [💱 XCM](./xcm/index.md)
 
